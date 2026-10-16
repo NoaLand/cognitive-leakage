@@ -1,0 +1,33 @@
+{"synthetic": false,
+ "schemaVersion": "2025-09-10",
+ "outputs":
+ {"o": ["3f1323fa7867b2e4.olean"],
+  "m": false,
+  "i": "a453ce38a6198eb9.ilean",
+  "c": "67f4cb5ba8b1642b.c"},
+ "log":
+ [{"message":
+   ".> LEAN_PATH=/Users/edwardnoaland/Desktop/experiment/cognitive_leakage/cognitive-leakage/.lake/build/lib/lean /Users/edwardnoaland/.elan/toolchains/leanprover--lean4---v4.35.0/bin/lean /Users/edwardnoaland/Desktop/experiment/cognitive_leakage/cognitive-leakage/Main.lean -o /Users/edwardnoaland/Desktop/experiment/cognitive_leakage/cognitive-leakage/.lake/build/lib/lean/Main.olean -i /Users/edwardnoaland/Desktop/experiment/cognitive_leakage/cognitive-leakage/.lake/build/lib/lean/Main.ilean -c /Users/edwardnoaland/Desktop/experiment/cognitive_leakage/cognitive-leakage/.lake/build/ir/Main.c --setup /Users/edwardnoaland/Desktop/experiment/cognitive_leakage/cognitive-leakage/.lake/build/ir/Main.setup.json --json",
+   "level": "trace"}],
+ "inputs":
+ [["deps",
+   [["«cognitive-leakage»/«cognitive-leakage»:extraDep",
+     [["@«cognitive-leakage»:extraDep", "00000000000006bb"]]],
+    ["imports",
+     [["CognitiveLeakage transitive imports (legacy)", "4af7535704e58382"],
+      ["CognitiveLeakage:importAllArts", "b4c145d70b8f2c39"]]]]],
+  ["libs",
+   [["import dynlibs", "00000000000006bb"],
+    ["package external libraries", "00000000000006bb"],
+    ["module dynlibs", "00000000000006bb"],
+    ["module plugins", "00000000000006bb"]]],
+  ["Lean 4.35.0, commit eb6cafb7290e8bd5f2937522d8d804f58f02bafc",
+   "407ce514b71d5a10"],
+  ["/Users/edwardnoaland/Desktop/experiment/cognitive_leakage/cognitive-leakage/Main.lean",
+   "1a6eba595633b839"],
+  ["options", "00000000000006bb"],
+  ["isModule: false", "feefd2a0d3a1847e"],
+  ["Module.name: Main", "f2a1fd945cf30c62"],
+  ["Package.id?: (some cognitive-leakage)", "5c50523c2dc93522"],
+  ["Module.leanArgs: #[]", "00000000000006bb"]],
+ "depHash": "410b1cf870eb5538"}

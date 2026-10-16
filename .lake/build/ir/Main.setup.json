@@ -1,0 +1,11 @@
+{"plugins": [],
+ "package": "cognitive-leakage",
+ "options": {},
+ "name": "Main",
+ "isModule": false,
+ "importArts":
+ {"CognitiveLeakage.TestCodeIsNotTheSafetyNet":
+  [["/Users/edwardnoaland/Desktop/experiment/cognitive_leakage/cognitive-leakage/.lake/build/lib/lean/CognitiveLeakage/TestCodeIsNotTheSafetyNet.olean"]],
+  "CognitiveLeakage":
+  [["/Users/edwardnoaland/Desktop/experiment/cognitive_leakage/cognitive-leakage/.lake/build/lib/lean/CognitiveLeakage.olean"]]},
+ "dynlibs": []}

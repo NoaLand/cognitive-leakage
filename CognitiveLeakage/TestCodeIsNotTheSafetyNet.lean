@@ -1,3 +1,7 @@
+namespace TestCodeIsNotTheSafetyNet
+
+def name := "Test Code Is Not The Safety Net"
+
 -- 有测试代码
 opaque HasTestCode : Prop
 
@@ -32,3 +36,5 @@ theorem has_test_code_does_not_imply_has_the_test_safety_net
     lack_of_understanding_is_not_a_safety_net teamDoesNotUnderstandTests
 
   exact And.intro hasTestCode hasNoTestSafetyNet
+
+end TestCodeIsNotTheSafetyNet

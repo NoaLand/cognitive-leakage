@@ -1,0 +1,10 @@
+name = "cognitive-leakage"
+version = "0.1.0"
+defaultTargets = ["cognitive-leakage"]
+
+[[lean_lib]]
+name = "CognitiveLeakage"
+
+[[lean_exe]]
+name = "cognitive-leakage"
+root = "Main"

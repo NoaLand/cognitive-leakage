@@ -1,0 +1,24 @@
+{"synthetic": false,
+ "schemaVersion": "2025-09-10",
+ "outputs": "4e15ec809af6d900",
+ "log":
+ [{"message":
+   ".> MACOSX_DEPLOYMENT_TARGET=99.0 /Users/edwardnoaland/.elan/toolchains/leanprover--lean4---v4.35.0/bin/clang -o /Users/edwardnoaland/Desktop/experiment/cognitive_leakage/cognitive-leakage/.lake/build/bin/cognitive-leakage @/Users/edwardnoaland/Desktop/experiment/cognitive_leakage/cognitive-leakage/.lake/build/bin/cognitive-leakage.rsp",
+   "level": "trace"}],
+ "inputs":
+ [["Main:linkInfo",
+   [["Module.moreLinkObjs",
+     [["/Users/edwardnoaland/Desktop/experiment/cognitive_leakage/cognitive-leakage/.lake/build/ir/Main.c.o.export",
+       "a9521e12b8a47645"],
+      ["/Users/edwardnoaland/Desktop/experiment/cognitive_leakage/cognitive-leakage/.lake/build/ir/CognitiveLeakage/TestCodeIsNotTheSafetyNet.c.o.export",
+       "b4b6780dd08e6fbe"],
+      ["/Users/edwardnoaland/Desktop/experiment/cognitive_leakage/cognitive-leakage/.lake/build/ir/CognitiveLeakage.c.o.export",
+       "d6bdabaf5e3e72aa"]]],
+    ["Module.moreLinkLibs", "00000000000006bb"],
+    ["Module.moreLinkArgs: #[]", "00000000000006bb"]]],
+  ["LeanExe.exeOnlyLinkArgs: #[]", "00000000000006bb"],
+  ["Lean 4.35.0, commit eb6cafb7290e8bd5f2937522d8d804f58f02bafc",
+   "407ce514b71d5a10"],
+  ["arm64-apple-darwin24.6.0", "77c16133d139df5a"],
+  ["MACOSX_DEPLOYMENT_TARGET: 99.0", "841efb403ba0ed2d"]],
+ "depHash": "355b31e6e82dff40"}

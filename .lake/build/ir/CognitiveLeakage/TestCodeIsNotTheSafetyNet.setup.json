@@ -1,0 +1,7 @@
+{"plugins": [],
+ "package": "cognitive-leakage",
+ "options": {},
+ "name": "CognitiveLeakage.TestCodeIsNotTheSafetyNet",
+ "isModule": false,
+ "importArts": {},
+ "dynlibs": []}
